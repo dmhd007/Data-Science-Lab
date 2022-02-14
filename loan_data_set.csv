@@ -1,0 +1,10 @@
+Gender,Education,Self_Employed,LoanAmount,Loan_Status
+Male,Graduate,No,10,Y
+Male,Graduate,No,128,N
+Male,Graduate,Yes,66,Y
+Male,Not Graduate,No,120,Y
+Female,Graduate,No,141,Y
+Male,Graduate,Yes,267,Y
+Male,Not Graduate,No,95,Y
+Female,Graduate,No,158,N
+Male,Graduate,No,168,Y
